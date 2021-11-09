@@ -1,0 +1,18 @@
+#entext{
+    color: fuchsia;
+    text-align: center;
+}
+
+.gstory{
+    text-align: center;
+}
+
+footer.sglobe{
+    color: rgb(170, 22, 22);
+    opacity: 50;
+}
+
+.styled{
+    color: indigo;
+    background-color: lightcoral;
+}
